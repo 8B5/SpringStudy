@@ -1,0 +1,16 @@
+{
+  "name":"홍길동",
+  "age":"10",
+  "cars":[
+    {
+      "name":"K5",
+      "carNumber":"11가 1111",
+      "type":"sedan"
+    },
+    {
+      "name":"Q4",
+      "carNumber":"22가 222",
+      "type":"SUV"
+    }
+  ]
+}
